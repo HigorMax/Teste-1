@@ -16,12 +16,12 @@
 <h2> Recursos Principais </h2>
 <ul>
 <li> Estrutura limpa e semântica </li>
-<li> Fácil leitura para leitores de teta (acssibilidade). </li>
+<li> Fácil leitura para leitores de tela (acssibilidade). </li>
 <li> Pronto para receber estilização com (SSC) </li>
 </ul>
   </section>
 <footer>
-<p>&copy;2026 , seu nome. Todos os direitos Reseneado </p>
+<p>&copy;2026 , Higor Maxwel,  Todos os direitos Reseneado </p>
 </footer>
 </body>
 </HTML>
