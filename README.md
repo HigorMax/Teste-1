@@ -21,7 +21,7 @@
 </ul>
   </section>
 <footer>
-<p> & copy;2026 , seu nome. Todos os direitos Reseneado </p>
+<p>&copy;2026 , seu nome. Todos os direitos Reseneado </p>
 </footer>
 </body>
 </HTML>
